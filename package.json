@@ -1,0 +1,22 @@
+{
+  "name": "api_mongoose",
+  "version": "1.0.0",
+  "description": "write an api with mongoose and controllers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedElsir/api_mongoose.git"
+  },
+  "author": "AhmedElsir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedElsir/api_mongoose/issues"
+  },
+  "homepage": "https://github.com/AhmedElsir/api_mongoose#readme",
+  "dependencies": {
+    "mongoose": "^5.2.8"
+  }
+}
